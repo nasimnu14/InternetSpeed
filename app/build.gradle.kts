@@ -18,6 +18,10 @@ android {
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
   }
 
+  // storePassword "nasimnu14"
+  // keyAlias "speed_test_key"
+  // keyPassword "nasimnu14"
+
   buildTypes {
     release {
       isMinifyEnabled = false
